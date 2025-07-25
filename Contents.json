@@ -677,7 +677,7 @@
 			"FPS" : 1,
 			"Name" : "CREWMATE",
 			"Author" : "ごろにゃん",
-			"Package" : "Rock cat Plates",
+			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -694,7 +694,7 @@
 			"FPS" : 1,
 			"Name" : "impostor",
 			"Author" : "ごろにゃん",
-			"Package" : "Rock cat Plates",
+			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
