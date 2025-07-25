@@ -1,10 +1,779 @@
 {
-    "namePlates": [
-    ],
-    "hats": [
-    ],
-    "visors": [
-    ],
-    "packages": [
-    ]
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "38296c81dd7778e343553fd687be9f56",
+				"Address" : "dYwRQe9db_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "0479778a2f128b9262e94406fda7cac6",
+				"Address" : "dYwRQe9db_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "0479778a2f128b9262e94406fda7cac6",
+				"Address" : "dYwRQe9db_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Ralsei",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f3937067fa93c0b359fb424afd97c6db",
+				"Address" : "AtmmrGib_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e53ba21c6885138a880461e7d5637385",
+				"Address" : "AtmmrGib_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "e53ba21c6885138a880461e7d5637385",
+				"Address" : "AtmmrGib_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Tenna",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d6473032cd6a3acd1ee40132d36b79bf",
+				"Address" : "LQ32EdAeb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "6f8f08ed99185fc9d297692e8be08a7a",
+				"Address" : "LQ32EdAeb_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "6f8f08ed99185fc9d297692e8be08a7a",
+				"Address" : "LQ32EdAeb_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Spamton",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "347a41b056882edf84e6ea1ea3e4ddec",
+				"Address" : "u0obOViC_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "8ed132294778e769a0325d9fec831aa7",
+				"Address" : "u0obOViC_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "8ed132294778e769a0325d9fec831aa7",
+				"Address" : "u0obOViC_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Lancer",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1402c6a1a0af643c33fcd84bbe2e2754",
+				"Address" : "7FGRiShb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f9640de9c7335eae09934bd862307f25",
+				"Address" : "7FGRiShb_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "f9640de9c7335eae09934bd862307f25",
+				"Address" : "7FGRiShb_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Susie",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "fbe16d8e24cbdea8c62ce44a6193dcec",
+				"Address" : "0PYaKuCoc_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "fbe16d8e24cbdea8c62ce44a6193dcec",
+				"Address" : "0PYaKuCoc_Move.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c56d75b7f90e04b10593302cd595fd69",
+				"Address" : "0PYaKuCoc_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "c56d75b7f90e04b10593302cd595fd69",
+				"Address" : "0PYaKuCoc_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "K\._Round",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "fbe16d8e24cbdea8c62ce44a6193dcec",
+				"Address" : "nWZhg8nub_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c56d75b7f90e04b10593302cd595fd69",
+				"Address" : "nWZhg8nub_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "c56d75b7f90e04b10593302cd595fd69",
+				"Address" : "nWZhg8nub_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "color-K\._Round",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "dc85398edc0c0e1e9f4e6e149fd502b2",
+				"Address" : "r0kNwi_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c8d1e70dc8f510c85590b577bb9990ea",
+				"Address" : "r0kNwi_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "c8d1e70dc8f510c85590b577bb9990ea",
+				"Address" : "r0kNwi_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "ddb01548e19b49af496bf2434b6ab2ed",
+				"Address" : "r0kNwi_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Kris",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "43eb83ba7645c62f07491b301e09ea5b",
+				"Address" : "deNBNRy9_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "8a7893d6cf3b7d50de1e38c44e840091",
+				"Address" : "deNBNRy9_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "8a7893d6cf3b7d50de1e38c44e840091",
+				"Address" : "deNBNRy9_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Starwalker",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2e9601c91eefb4d24fdda5930997ecd9",
+				"Address" : "rPdPwIMU_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "205f8b82f4f5f273591f8199721b3ed5",
+				"Address" : "rPdPwIMU_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "205f8b82f4f5f273591f8199721b3ed5",
+				"Address" : "rPdPwIMU_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "color_walker",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "7e6d133c28ef452e9b51f8858731285c",
+				"Address" : "2uyYgjab_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e5ec6907dacf4bd78c27504c88aad11c",
+				"Address" : "2uyYgjab_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "e5ec6907dacf4bd78c27504c88aad11c",
+				"Address" : "2uyYgjab_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Jevil",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "76a5fdca0a4e70a1853f42517d2904b0",
+				"Address" : "7bmqfBph_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "11975cbf879c5251da1d780be4f1c6ba",
+				"Address" : "7bmqfBph_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "11975cbf879c5251da1d780be4f1c6ba",
+				"Address" : "7bmqfBph_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "color　Jevil",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0fa46ea553a748c7fc588b6fa452932d",
+				"Address" : "i8Mig9Hjc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "4d95a4e50e5160ebb06744d42f50a389",
+				"Address" : "i8Mig9Hjc_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "4d95a4e50e5160ebb06744d42f50a389",
+				"Address" : "i8Mig9Hjc_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Rouxls_Kaard",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "083a027c1aca85dff04259f32a6a3e91",
+				"Address" : "Ea4R6xFs_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e87cac19763ce9a18a45dc8490b11871",
+				"Address" : "Ea4R6xFs_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "e87cac19763ce9a18a45dc8490b11871",
+				"Address" : "Ea4R6xFs_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ムシケラズ",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c928ea639fd24ca8cf0a6670b773a83f",
+				"Address" : "G7YUrrIzb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "4065dbb6823dd5b877910fd27a075780",
+				"Address" : "G7YUrrIzb_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "4065dbb6823dd5b877910fd27a075780",
+				"Address" : "G7YUrrIzb_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "color_queen",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6a9f94cc113833467d6f7fdce80cc9eb",
+				"Address" : "YEdaOZGb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "53dc1e06f229b1a005d262ba3a4386ae",
+				"Address" : "YEdaOZGb_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "53dc1e06f229b1a005d262ba3a4386ae",
+				"Address" : "YEdaOZGb_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "queen",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1a2051dee930a25bf5ad28887c324b6f",
+				"Address" : "CUv4qvsic_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "2267fe8ef39cc4dafb7bca67249f506d",
+				"Address" : "CUv4qvsic_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "2267fe8ef39cc4dafb7bca67249f506d",
+				"Address" : "CUv4qvsic_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "冷凍チキン",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "5d70c4ff5f66367b4dfd994c4ebe89a8",
+				"Address" : "Xv3d5l_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "213c8c3a81878da9c447944145b15cb2",
+				"Address" : "Xv3d5l_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "213c8c3a81878da9c447944145b15cb2",
+				"Address" : "Xv3d5l_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "king",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "dfe5c5001cfe9557b216ed200320fbc0",
+				"Address" : "tpHN0GKkb_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Swatch",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d4b23ee2953ece9123727ebec6a98839",
+				"Address" : "5YiCIGzHb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "4db5e78954558b77b49e444615d43280",
+				"Address" : "5YiCIGzHb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Shadowguy",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "409db9a138c39da7c639a4ad598c04eb",
+				"Address" : "ViFDj0pl_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "409db9a138c39da7c639a4ad598c04eb",
+				"Address" : "ViFDj0pl_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "409db9a138c39da7c639a4ad598c04eb",
+				"Address" : "ViFDj0pl_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Watercooler",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Visors" : [
+		{
+			"Main" : {
+				"Hash" : "bc11542bd6c138aad5afac3060d1fcca",
+				"Address" : "XNxgYKTs_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e53ba21c6885138a880461e7d5637385",
+				"Address" : "XNxgYKTs_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "e53ba21c6885138a880461e7d5637385",
+				"Address" : "XNxgYKTs_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "tenna-visor",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat visor",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d06df0cb55916d624c72ed13a31404d0",
+				"Address" : "XGb6qPbmb_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "タイタン",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat visor",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "29b52db263c8627f07a3053d0d22b96e",
+				"Address" : "RdzMJVXoc_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "Among_us",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat visor",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a8a1e0382f63b376cad2bc158280903a",
+				"Address" : "9wyTriBU_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "_jackal",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat visor",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9e9a62013dc508775cbedc8c12a8f417",
+				"Address" : "DBNroYeJ_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "CREWMATE",
+			"Author" : "ごろにゃん",
+			"Package" : "Rock cat Plates",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a0d992120116174c7c7bb8c117dc2380",
+				"Address" : "bNbLisA_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "impostor",
+			"Author" : "ごろにゃん",
+			"Package" : "Rock cat Plates",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Nameplates" : [
+		{
+			"Plate" : {
+				"Hash" : "239443f29dba08a2a0ff38d6ca22084b",
+				"Address" : "IrM5H8HZb_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "among_us",
+			"Author" : "ごろにゃん",
+			"Package" : "Rock cat Plates",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "b67330ea3fa8522bcd62d2920426dd5e",
+				"Address" : "bNbLisA_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "impostor",
+			"Author" : "ごろにゃん",
+			"Package" : "Rock cat Plates",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "47f2712d0d5b3ed43a5143b4f8800a86",
+				"Address" : "DBNroYeJ_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "CREWMATE",
+			"Author" : "ごろにゃん",
+			"Package" : "Rock cat Plates",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Plate" : {
+				"Hash" : "f6564eaa34ba56d0d83946c557fd978d",
+				"Address" : "PlaagXfp_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "JACKAL",
+			"Author" : "ごろにゃん",
+			"Package" : "Rock cat Plates",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "RockCat-Lab",
+			"Format" : "RockCat-Lab",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Package" : "RockCat visor",
+			"Format" : "RockCat visor",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Package" : "Rock cat Plates",
+			"Format" : "Rock cat Plates",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
 }
