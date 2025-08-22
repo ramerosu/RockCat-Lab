@@ -2,10 +2,6 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "38296c81dd7778e343553fd687be9f56",
 				"Address" : "dYwRQe9db_Main.png",
@@ -21,6 +17,10 @@
 				"Address" : "dYwRQe9db_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Ralsei",
@@ -30,10 +30,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "f3937067fa93c0b359fb424afd97c6db",
 				"Address" : "AtmmrGib_Main.png",
@@ -49,6 +45,10 @@
 				"Address" : "AtmmrGib_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Tenna",
@@ -58,10 +58,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "d6473032cd6a3acd1ee40132d36b79bf",
 				"Address" : "LQ32EdAeb_Main.png",
@@ -77,6 +73,10 @@
 				"Address" : "LQ32EdAeb_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Spamton",
@@ -86,10 +86,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : True,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "347a41b056882edf84e6ea1ea3e4ddec",
 				"Address" : "u0obOViC_Main.png",
@@ -105,6 +101,10 @@
 				"Address" : "u0obOViC_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Lancer",
@@ -114,10 +114,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "1402c6a1a0af643c33fcd84bbe2e2754",
 				"Address" : "7FGRiShb_Main.png",
@@ -133,6 +129,10 @@
 				"Address" : "7FGRiShb_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Susie",
@@ -142,10 +142,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "fbe16d8e24cbdea8c62ce44a6193dcec",
 				"Address" : "0PYaKuCoc_Main.png",
@@ -166,6 +162,10 @@
 				"Address" : "0PYaKuCoc_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "K\._Round",
@@ -175,10 +175,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : True,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "fbe16d8e24cbdea8c62ce44a6193dcec",
 				"Address" : "nWZhg8nub_Main.png",
@@ -194,6 +190,10 @@
 				"Address" : "nWZhg8nub_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "color-K\._Round",
@@ -203,10 +203,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "dc85398edc0c0e1e9f4e6e149fd502b2",
 				"Address" : "r0kNwi_Main.png",
@@ -227,6 +223,10 @@
 				"Address" : "r0kNwi_EnterVent.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Kris",
@@ -236,10 +236,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : True,
-			"HideHands" : True,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "43eb83ba7645c62f07491b301e09ea5b",
 				"Address" : "deNBNRy9_Main.png",
@@ -255,6 +251,10 @@
 				"Address" : "deNBNRy9_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Starwalker",
@@ -264,10 +264,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : True,
-			"Bounce" : True,
-			"HideHands" : True,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "2e9601c91eefb4d24fdda5930997ecd9",
 				"Address" : "rPdPwIMU_Main.png",
@@ -283,6 +279,10 @@
 				"Address" : "rPdPwIMU_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : True,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "color_walker",
@@ -292,10 +292,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "7e6d133c28ef452e9b51f8858731285c",
 				"Address" : "2uyYgjab_Main.png",
@@ -311,6 +307,10 @@
 				"Address" : "2uyYgjab_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Jevil",
@@ -629,6 +629,98 @@
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0945f0323a07ccd8e0777c843195dd4d",
+				"Address" : "KiCJBGlgb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "a6825c24630682dcf5114efec2789fbb",
+				"Address" : "KiCJBGlgb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "mike\.\.\.\?-2_",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0945f0323a07ccd8e0777c843195dd4d",
+				"Address" : "M6X9PnNac_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "a6825c24630682dcf5114efec2789fbb",
+				"Address" : "M6X9PnNac_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "color_mike\.\.\.\?-2",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "78f2e0c32eb0339bc3bdc5ea29020955",
+				"Address" : "PFlyHQlub_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "dd97f9e27bd5a6a92c39670a4c1ea65f",
+				"Address" : "PFlyHQlub_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "mike\.\.\.\?-3",
+			"Author" : "",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "78f2e0c32eb0339bc3bdc5ea29020955",
+				"Address" : "N6X9PnNac_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "dd97f9e27bd5a6a92c39670a4c1ea65f",
+				"Address" : "N6X9PnNac_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "color_mike\.\.\.\?-3",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -741,6 +833,23 @@
 			"Name" : "impostor",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "3dbe255253eaf2e908620ac4e8884790",
+				"Address" : "Y28b8iGP_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "friend",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
