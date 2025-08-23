@@ -694,7 +694,7 @@
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "mike\.\.\.\?-3",
-			"Author" : "",
+			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
@@ -718,6 +718,52 @@
 			"FPS" : 1,
 			"Name" : "color_mike\.\.\.\?-3",
 			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c365185f7bb44ccfab3d202c7044488b",
+				"Address" : "p8Kr8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "0fa30124fb5211ba415abc526dd0ad9a",
+				"Address" : "p8Kr8c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "カート",
+			"Author" : "ソロアライン",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c365185f7bb44ccfab3d202c7044488b",
+				"Address" : "G93Qg4V1_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "0fa30124fb5211ba415abc526dd0ad9a",
+				"Address" : "G93Qg4V1_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "color　カート",
+			"Author" : "ソロアライン",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
@@ -849,7 +895,7 @@
 			"FPS" : 1,
 			"Name" : "friend",
 			"Author" : "ごろにゃん",
-			"Package" : "RockCat-Lab",
+			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
