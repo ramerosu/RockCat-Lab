@@ -18,8 +18,9 @@ Deltaruneをメインとしたコスチュームを作っていきます。
 ### Undertale / Deltarune 二次創作について
 Toby Fox氏の方針として、非営利でモラルのあるファン活動は容認されています。
 
-#### 🔗 公式ガイドライン（Undertaleに関するTumblr投稿）
+#### 公式ガイドライン（Undertaleに関するTumblr投稿）
 - https://undertale.tumblr.com/post/139726155020/changing-policy-on-fan-merch
+- https://hatoking.com/journal/1961.html
 
 ### 参考リンク（Toby Fox氏の発言・報道など）
 - 【2025年6月】著作権クレームに対する異議申し立ての推奨  
