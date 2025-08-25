@@ -767,6 +767,24 @@
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "de043fde9a040dec8ffa2b4b394b244b",
+				"Address" : "ZHRvXROkc_Main.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ただのシャツ",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -894,6 +912,167 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "friend",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat visor",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "336c5f54d23b7c1c87099a1f5455b071",
+				"Address" : "KKxab_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "336c5f54d23b7c1c87099a1f5455b071",
+				"Address" : "KKxab_Move.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "DOG",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat visor",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "188039d501455eee2eb95b048ddb683d",
+				"Address" : "olJbjCIlc_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "188039d501455eee2eb95b048ddb683d",
+				"Address" : "olJbjCIlc_Move.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "sleeping　DOG",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat visor",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "8cfcec66eb8204d035338b4d076ff2c5",
+				"Address" : "B5ve7c_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "すんっ",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat visor",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "4999f697f54aa52876672a55681af737",
+				"Address" : "iovy_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ぬー",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat visor",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9143467f891853bddbc01531381bc2c2",
+				"Address" : "kyRu7c_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "にこり",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat visor",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "fffc0130a5b1fbb630f90125ff7579d3",
+				"Address" : "jUv9bwaC_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "b12b8e20a514aee7c5c064c12499e9d9",
+				"Address" : "jUv9bwaC_Flip.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "タスクはたのしい",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat visor",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0974e058af02dc0922706d5df2033b6d",
+				"Address" : "M2YjQhcN_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "1bd641cefd65dfc2a06dd4e461f58247",
+				"Address" : "M2YjQhcN_Flip.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "私はインポスター",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat visor",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f0bd02e8bf4bc20c690432ded6f5977b",
+				"Address" : "z1oNZewC_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "7cdf267fcdd0760cd5e09e4f0c534753",
+				"Address" : "z1oNZewC_Flip.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "タスクは得意です",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
