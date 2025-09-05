@@ -558,18 +558,18 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "409db9a138c39da7c639a4ad598c04eb",
-				"Address" : "ViFDj0pl_Main.png",
+				"Hash" : "9e954e73195812d553780b04df1d0793",
+				"Address" : "zRUwdcSg_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
-				"Hash" : "409db9a138c39da7c639a4ad598c04eb",
-				"Address" : "ViFDj0pl_Climb.png",
+				"Hash" : "9e954e73195812d553780b04df1d0793",
+				"Address" : "zRUwdcSg_Climb.png",
 				"ExIsFront" : False
 			},
 			"ClimbDown" : {
-				"Hash" : "409db9a138c39da7c639a4ad598c04eb",
-				"Address" : "ViFDj0pl_ClimbDown.png",
+				"Hash" : "9e954e73195812d553780b04df1d0793",
+				"Address" : "zRUwdcSg_ClimbDown.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -578,7 +578,7 @@
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
-			"Name" : "Watercooler",
+			"Name" : "Water　cooler",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
@@ -781,6 +781,62 @@
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "ただのシャツ",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9f7f9b8a7e54d064e7bc252ab3ad882b",
+				"Address" : "bwglfTBsc_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "619d2f755a28e3769753ad5f89f9f1f7",
+				"Address" : "bwglfTBsc_Flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "434b58c54572aa9ccb6c910fe4d72f75",
+				"Address" : "bwglfTBsc_Back.png",
+				"ExIsFront" : False
+			},
+			"BackFlip" : {
+				"Hash" : "434b58c54572aa9ccb6c910fe4d72f75",
+				"Address" : "bwglfTBsc_BackFlip.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "vs_クルー",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b198201a966e8da4676ec423c36a751a",
+				"Address" : "xlOT68KY_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "34fd241e149f7c41568f424e37343b2e",
+				"Address" : "xlOT68KY_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ケーブロイド",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
