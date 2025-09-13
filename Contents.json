@@ -841,6 +841,29 @@
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "38eb56e4a4b7a8beaed74462e2a992a6",
+				"Address" : "vH3Bb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "0d385c33104112fbeebd539485dc4619",
+				"Address" : "vH3Bb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "box",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
@@ -1129,6 +1152,23 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "タスクは得意です",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat visor",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Back" : {
+				"Hash" : "22ea01298b3b8957a1aeec5eac29c3c4",
+				"Address" : "H2f2a4jg_Back.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : True,
+			"BackmostBack" : True,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "oh!_tenna\.\.\.\?",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
