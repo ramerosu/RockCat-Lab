@@ -204,39 +204,6 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "dc85398edc0c0e1e9f4e6e149fd502b2",
-				"Address" : "r0kNwi_Main.png",
-				"ExIsFront" : False
-			},
-			"Climb" : {
-				"Hash" : "c8d1e70dc8f510c85590b577bb9990ea",
-				"Address" : "r0kNwi_Climb.png",
-				"ExIsFront" : False
-			},
-			"ClimbDown" : {
-				"Hash" : "c8d1e70dc8f510c85590b577bb9990ea",
-				"Address" : "r0kNwi_ClimbDown.png",
-				"ExIsFront" : False
-			},
-			"EnterVent" : {
-				"Hash" : "ddb01548e19b49af496bf2434b6ab2ed",
-				"Address" : "r0kNwi_EnterVent.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "Kris",
-			"Author" : "ごろにゃん",
-			"Package" : "RockCat-Lab",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
 				"Hash" : "43eb83ba7645c62f07491b301e09ea5b",
 				"Address" : "deNBNRy9_Main.png",
 				"ExIsFront" : False
@@ -293,17 +260,17 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "7e6d133c28ef452e9b51f8858731285c",
+				"Hash" : "57fd87c055467e8702f0c5aa675f08ea",
 				"Address" : "2uyYgjab_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
-				"Hash" : "e5ec6907dacf4bd78c27504c88aad11c",
+				"Hash" : "92ad8e5310e0bfce8e042c5959e4ac36",
 				"Address" : "2uyYgjab_Climb.png",
 				"ExIsFront" : False
 			},
 			"ClimbDown" : {
-				"Hash" : "e5ec6907dacf4bd78c27504c88aad11c",
+				"Hash" : "92ad8e5310e0bfce8e042c5959e4ac36",
 				"Address" : "2uyYgjab_ClimbDown.png",
 				"ExIsFront" : False
 			},
@@ -321,17 +288,17 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "76a5fdca0a4e70a1853f42517d2904b0",
+				"Hash" : "a2721cb3b78e86eee488ccb66c604394",
 				"Address" : "7bmqfBph_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
-				"Hash" : "11975cbf879c5251da1d780be4f1c6ba",
+				"Hash" : "3ddaf33f03d09d928fd55df82c2929a3",
 				"Address" : "7bmqfBph_Climb.png",
 				"ExIsFront" : False
 			},
 			"ClimbDown" : {
-				"Hash" : "11975cbf879c5251da1d780be4f1c6ba",
+				"Hash" : "3ddaf33f03d09d928fd55df82c2929a3",
 				"Address" : "7bmqfBph_ClimbDown.png",
 				"ExIsFront" : False
 			},
@@ -370,34 +337,6 @@
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Rouxls_Kaard",
-			"Author" : "ごろにゃん",
-			"Package" : "RockCat-Lab",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "083a027c1aca85dff04259f32a6a3e91",
-				"Address" : "Ea4R6xFs_Main.png",
-				"ExIsFront" : False
-			},
-			"Climb" : {
-				"Hash" : "e87cac19763ce9a18a45dc8490b11871",
-				"Address" : "Ea4R6xFs_Climb.png",
-				"ExIsFront" : False
-			},
-			"ClimbDown" : {
-				"Hash" : "e87cac19763ce9a18a45dc8490b11871",
-				"Address" : "Ea4R6xFs_ClimbDown.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "ムシケラズ",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
@@ -482,34 +421,6 @@
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "冷凍チキン",
-			"Author" : "ごろにゃん",
-			"Package" : "RockCat-Lab",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "5d70c4ff5f66367b4dfd994c4ebe89a8",
-				"Address" : "Xv3d5l_Main.png",
-				"ExIsFront" : False
-			},
-			"Climb" : {
-				"Hash" : "213c8c3a81878da9c447944145b15cb2",
-				"Address" : "Xv3d5l_Climb.png",
-				"ExIsFront" : False
-			},
-			"ClimbDown" : {
-				"Hash" : "213c8c3a81878da9c447944145b15cb2",
-				"Address" : "Xv3d5l_ClimbDown.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "king",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
@@ -770,24 +681,6 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "de043fde9a040dec8ffa2b4b394b244b",
-				"Address" : "ZHRvXROkc_Main.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "ただのシャツ",
-			"Author" : "ごろにゃん",
-			"Package" : "RockCat-Lab",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
 				"Hash" : "9f7f9b8a7e54d064e7bc252ab3ad882b",
 				"Address" : "bwglfTBsc_Main.png",
 				"ExIsFront" : False
@@ -860,6 +753,29 @@
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "box",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "8fa64697b69a0beee44d5c137b9f94dd",
+				"Address" : "r0kNwi_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "8fa64697b69a0beee44d5c137b9f94dd",
+				"Address" : "r0kNwi_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Kris",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
