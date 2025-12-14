@@ -22,7 +22,7 @@ Toby Fox氏の方針として、非営利でモラルのあるファン活動は
 - https://undertale.tumblr.com/post/139726155020/changing-policy-on-fan-merch
 - https://hatoking.com/journal/1961.html
 
-### 参考リンク（Toby Fox氏の発言・報道など）
+### 参考リンク
 - 【2025年6月】著作権クレームに対する異議申し立ての推奨  
   https://www.gamesradar.com/games/rpg/toby-fox-urges-streamers-to-please-dispute-any-copyright-claims-they-get-over-undertale-and-deltarune-content-because-his-rpg-music-is-so-popular-it-hit-a-threshold-for-increased-copyright-strike-aggression-not-kidding
 
