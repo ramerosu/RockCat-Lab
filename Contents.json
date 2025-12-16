@@ -3,17 +3,17 @@
 	"Hats" : [
 		{
 			"Main" : {
-				"Hash" : "38296c81dd7778e343553fd687be9f56",
+				"Hash" : "f0ccf075bec33ed15270ff840aa35b48",
 				"Address" : "dYwRQe9db_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
-				"Hash" : "0479778a2f128b9262e94406fda7cac6",
+				"Hash" : "85b08b2709d5f135051480b345e9df1b",
 				"Address" : "dYwRQe9db_Climb.png",
 				"ExIsFront" : False
 			},
 			"ClimbDown" : {
-				"Hash" : "0479778a2f128b9262e94406fda7cac6",
+				"Hash" : "85b08b2709d5f135051480b345e9df1b",
 				"Address" : "dYwRQe9db_ClimbDown.png",
 				"ExIsFront" : False
 			},
@@ -22,39 +22,41 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "Ralsei",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
-				"Hash" : "f3937067fa93c0b359fb424afd97c6db",
+				"Hash" : "1445ab26040a0def7492d7e18abf89bc",
 				"Address" : "AtmmrGib_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
-				"Hash" : "e53ba21c6885138a880461e7d5637385",
+				"Hash" : "39c40f2bae1679d900f863997224595c",
 				"Address" : "AtmmrGib_Climb.png",
 				"ExIsFront" : False
 			},
 			"ClimbDown" : {
-				"Hash" : "e53ba21c6885138a880461e7d5637385",
+				"Hash" : "39c40f2bae1679d900f863997224595c",
 				"Address" : "AtmmrGib_ClimbDown.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
-			"HideHands" : False,
+			"HideHands" : True,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "Tenna",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -78,39 +80,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "Spamton",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "347a41b056882edf84e6ea1ea3e4ddec",
-				"Address" : "u0obOViC_Main.png",
-				"ExIsFront" : False
-			},
-			"Climb" : {
-				"Hash" : "8ed132294778e769a0325d9fec831aa7",
-				"Address" : "u0obOViC_Climb.png",
-				"ExIsFront" : False
-			},
-			"ClimbDown" : {
-				"Hash" : "8ed132294778e769a0325d9fec831aa7",
-				"Address" : "u0obOViC_ClimbDown.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
 			"FPS" : 1,
-			"Name" : "Lancer",
-			"Author" : "ごろにゃん",
-			"Package" : "RockCat-Lab",
-			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
@@ -134,11 +109,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "Susie",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -167,11 +143,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "K\._Round",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -195,11 +172,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "color-K\._Round",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -223,11 +201,12 @@
 			"HideHands" : True,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "Starwalker",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -251,11 +230,12 @@
 			"HideHands" : True,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "color_walker",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -279,11 +259,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "Jevil",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -307,11 +288,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "color　Jevil",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -335,11 +317,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "Rouxls_Kaard",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -363,11 +346,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "color_queen",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -391,39 +375,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "queen",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Main" : {
-				"Hash" : "1a2051dee930a25bf5ad28887c324b6f",
-				"Address" : "CUv4qvsic_Main.png",
-				"ExIsFront" : False
-			},
-			"Climb" : {
-				"Hash" : "2267fe8ef39cc4dafb7bca67249f506d",
-				"Address" : "CUv4qvsic_Climb.png",
-				"ExIsFront" : False
-			},
-			"ClimbDown" : {
-				"Hash" : "2267fe8ef39cc4dafb7bca67249f506d",
-				"Address" : "CUv4qvsic_ClimbDown.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
 			"FPS" : 1,
-			"Name" : "冷凍チキン",
-			"Author" : "ごろにゃん",
-			"Package" : "RockCat-Lab",
-			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
@@ -437,11 +394,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "Swatch",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -460,11 +418,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "Shadowguy",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -488,11 +447,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "Water　cooler",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -511,11 +471,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "mike\.\.\.\?-1",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -534,11 +495,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "color_mike\.\.\.\?-1",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -557,11 +519,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "mike\.\.\.\?-2_",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -580,11 +543,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "color_mike\.\.\.\?-2",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -603,11 +567,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "mike\.\.\.\?-3",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -626,11 +591,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "color_mike\.\.\.\?-3",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -649,11 +615,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "カート",
 			"Author" : "ソロアライン",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -672,11 +639,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "color　カート",
 			"Author" : "ソロアライン",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -705,11 +673,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "vs_クルー",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -728,11 +697,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "ケーブロイド",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -751,11 +721,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "box",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -774,11 +745,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "Kris",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
@@ -800,14 +772,14 @@
 				"ExIsFront" : False
 			},
 			"Adaptive" : False,
-			"BehindHat" : False,
+			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "tenna-visor",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -817,14 +789,14 @@
 				"ExIsFront" : False
 			},
 			"Adaptive" : False,
-			"BehindHat" : False,
+			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "タイタン",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -837,16 +809,16 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "Among_us",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
-				"Hash" : "a8a1e0382f63b376cad2bc158280903a",
+				"Hash" : "0c7890c038865f1a913efc96bcb8a9e0",
 				"Address" : "9wyTriBU_Main.png",
 				"ExIsFront" : False
 			},
@@ -854,11 +826,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "_jackal",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -871,11 +843,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "CREWMATE",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -888,11 +860,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "impostor",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -905,11 +877,11 @@
 			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "friend",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -924,14 +896,14 @@
 				"ExIsFront" : False
 			},
 			"Adaptive" : False,
-			"BehindHat" : False,
+			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "DOG",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -946,14 +918,14 @@
 				"ExIsFront" : False
 			},
 			"Adaptive" : False,
-			"BehindHat" : False,
+			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "sleeping　DOG",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -963,14 +935,14 @@
 				"ExIsFront" : False
 			},
 			"Adaptive" : False,
-			"BehindHat" : False,
+			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "すんっ",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -980,14 +952,14 @@
 				"ExIsFront" : False
 			},
 			"Adaptive" : False,
-			"BehindHat" : False,
+			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ぬー",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -997,14 +969,14 @@
 				"ExIsFront" : False
 			},
 			"Adaptive" : False,
-			"BehindHat" : False,
+			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "にこり",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1022,11 +994,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "タスクはたのしい",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1044,11 +1016,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "私はインポスター",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1066,11 +1038,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "タスクは得意です",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1083,11 +1055,11 @@
 			"BehindHat" : True,
 			"BackmostBack" : True,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "oh!_tenna\.\.\.\?",
 			"Author" : "ごろにゃん",
 			"Package" : "RockCat visor",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
@@ -1103,6 +1075,7 @@
 			"Author" : "ごろにゃん",
 			"Package" : "Rock cat Plates",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1116,6 +1089,7 @@
 			"Author" : "ごろにゃん",
 			"Package" : "Rock cat Plates",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1129,6 +1103,7 @@
 			"Author" : "ごろにゃん",
 			"Package" : "Rock cat Plates",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -1142,6 +1117,7 @@
 			"Author" : "ごろにゃん",
 			"Package" : "Rock cat Plates",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
